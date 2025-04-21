@@ -23,6 +23,7 @@
 - Pycharm
 
 ## 📂 파일 구성
+```
 main.py
 ├── SudokuCreate.py
 ├── SudokuGUI.py
@@ -33,6 +34,7 @@ main.py
 ├── SudokuSound.py
 ├── result.py
 └── rrun.py
+```
 
 ## 게임 실행 사진
 ![image](https://github.com/user-attachments/assets/b9297a96-f0e0-4922-af19-230c1b1aa5ef)
